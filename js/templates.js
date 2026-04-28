@@ -225,7 +225,7 @@ function createWarningBlock() {
         <div class="block-actions">
             <button class="edit-block" title="Редактировать">✏️</button>
             <button class="copy-block" title="Копировать">📋</button>
-                   <button class="export-html-block" title="Экспорт HTML">￼</button>
+            <button class="export-html-block" title="Экспорт HTML">🚀</button>
             <button class="settings-block" title="Настройки">⚙️</button>
             <button class="delete-block" title="Удалить">🗑️</button>
         </div>
@@ -260,7 +260,7 @@ function createSuccessBlock() {
         <div class="block-actions">
             <button class="edit-block" title="Редактировать">✏️</button>
             <button class="copy-block" title="Копировать">📋</button>
-                   <button class="export-html-block" title="Экспорт HTML">￼</button>
+            <button class="export-html-block" title="Экспорт HTML">🚀</button>
             <button class="settings-block" title="Настройки">⚙️</button>
             <button class="delete-block" title="Удалить">🗑️</button>
         </div>
@@ -293,7 +293,7 @@ function createNoteBlock() {
         <div class="block-actions">
             <button class="edit-block" title="Редактировать">✏️</button>
             <button class="copy-block" title="Копировать">📋</button>
-                   <button class="export-html-block" title="Экспорт HTML">￼</button>
+            <button class="export-html-block" title="Экспорт HTML">🚀</button>
             <button class="settings-block" title="Настройки">⚙️</button>
             <button class="delete-block" title="Удалить">🗑️</button>
         </div>
@@ -326,7 +326,7 @@ function createNumberedBlock() {
         <div class="block-actions">
             <button class="edit-block" title="Редактировать">✏️</button>
             <button class="copy-block" title="Копировать">📋</button>
-                   <button class="export-html-block" title="Экспорт HTML">￼</button>
+            <button class="export-html-block" title="Экспорт HTML">🚀</button>
             <button class="settings-block" title="Настройки">⚙️</button>
             <button class="delete-block" title="Удалить">🗑️</button>
         </div>
@@ -359,7 +359,7 @@ function createCodeBlock() {
         <div class="block-actions">
             <button class="edit-block" title="Редактировать">✏️</button>
             <button class="copy-block" title="Копировать">📋</button>
-                   <button class="export-html-block" title="Экспорт HTML">￼</button>
+            <button class="export-html-block" title="Экспорт HTML">🚀</button>
             <button class="settings-block" title="Настройки">⚙️</button>
             <button class="delete-block" title="Удалить">🗑️</button>
         </div>
@@ -389,7 +389,7 @@ function createImageBlock() {
         <div class="block-actions">
             <button class="edit-block" title="Редактировать">✏️</button>
             <button class="copy-block" title="Копировать">📋</button>
-                   <button class="export-html-block" title="Экспорт HTML">￼</button>
+            <button class="export-html-block" title="Экспорт HTML">🚀</button>
             <button class="settings-block" title="Настройки">⚙️</button>
             <button class="delete-block" title="Удалить">🗑️</button>
         </div>
@@ -417,7 +417,7 @@ function createQuoteBlock() {
         <div class="block-actions">
             <button class="edit-block" title="Редактировать">✏️</button>
             <button class="copy-block" title="Копировать">📋</button>
-                   <button class="export-html-block" title="Экспорт HTML">￼</button>
+     <button class="export-html-block" title="Экспорт HTML">🚀</button>
             <button class="settings-block" title="Настройки">⚙️</button>
             <button class="delete-block" title="Удалить">🗑️</button>
         </div>
@@ -448,7 +448,7 @@ function createLinkButtonsBlock() {
         <div class="block-actions">
             <button class="edit-block" title="Редактировать">✏️</button>
             <button class="copy-block" title="Копировать">📋</button>
-                   <button class="export-html-block" title="Экспорт HTML">￼</button>
+        <button class="export-html-block" title="Экспорт HTML">🚀</button>
             <button class="settings-block" title="Настройки">⚙️</button>
             <button class="delete-block" title="Удалить">🗑️</button>
         </div>
@@ -478,7 +478,7 @@ function create1CConfigurationBlock() {
         <div class="block-actions">
             <button class="edit-block" title="Редактировать">✏️</button>
             <button class="copy-block" title="Копировать">📋</button>
-                   <button class="export-html-block" title="Экспорт HTML">￼</button>
+            <button class="export-html-block" title="Экспорт HTML">🚀</button>
             <button class="settings-block" title="Настройки">⚙️</button>
             <button class="delete-block" title="Удалить">🗑️</button>
         </div>
@@ -522,7 +522,7 @@ function createGlossaryBlock() {
         <div class="block-actions">
             <button class="edit-block" title="Редактировать">✏️</button>
             <button class="copy-block" title="Копировать">📋</button>
-                   <button class="export-html-block" title="Экспорт HTML">￼</button>
+            <button class="export-html-block" title="Экспорт HTML">🚀</button>
             <button class="settings-block" title="Настройки">⚙️</button>
             <button class="delete-block" title="Удалить">🗑️</button>
         </div>
@@ -547,7 +547,7 @@ function createImageCaptionBlock() {
         <div class="block-actions">
             <button class="edit-block" title="Редактировать">✏️</button>
             <button class="copy-block" title="Копировать">📋</button>
-                   <button class="export-html-block" title="Экспорт HTML">￼</button>
+          <button class="export-html-block" title="Экспорт HTML">🚀</button>
             <button class="settings-block" title="Настройки">⚙️</button>
             <button class="delete-block" title="Удалить">🗑️</button>
         </div>
@@ -575,7 +575,7 @@ function createTypeComparisonBlock() {
         <div class="block-actions">
             <button class="edit-block" title="Редактировать">✏️</button>
             <button class="copy-block" title="Копировать">📋</button>
-                   <button class="export-html-block" title="Экспорт HTML">￼</button>
+            <button class="export-html-block" title="Экспорт HTML">🚀</button>
             <button class="settings-block" title="Настройки">⚙️</button>
             <button class="delete-block" title="Удалить">🗑️</button>
         </div>
@@ -617,7 +617,7 @@ function createDeveloperNoteBlock() {
         <div class="block-actions">
             <button class="edit-block" title="Редактировать">✏️</button>
             <button class="copy-block" title="Копировать">📋</button>
-                   <button class="export-html-block" title="Экспорт HTML">￼</button>
+            <button class="export-html-block" title="Экспорт HTML">🚀</button>
             <button class="settings-block" title="Настройки">⚙️</button>
             <button class="delete-block" title="Удалить">🗑️</button>
         </div>
@@ -652,7 +652,7 @@ function insertCustomHTML(html) {
         <div class="block-actions">
             <button class="edit-block" title="Редактировать">✏️</button>
             <button class="copy-block" title="Копировать">📋</button>
-           <button class="export-html-block" title="Экспорт HTML">￼</button>
+           <button class="export-html-block" title="Экспорт HTML">🚀</button>
             <button class="settings-block" title="Настройки">⚙️</button>
             <button class="delete-block" title="Удалить">🗑️</button>
         </div>
